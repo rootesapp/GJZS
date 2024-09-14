@@ -3,28 +3,23 @@
 layout: home
 
 hero:
-  name: "搞机助手·R"
-  text: "为Android玩机爱好者提供一些便利功能"
-  tagline: "为Android玩机爱好者提供一些便利功能"
-  image:
-    src: /logo.webp
-    alt: 搞机助手·R
+  name: "玩机百宝箱--官方下载网站"
+  text: "玩机更加方便！"
+  tagline: "Power by Scene5"
+  
   actions:
     - theme: brand
-      text: 下载 ->
+      text: 立即下载
       link: /Download.html
-    - theme: alt
-      text: GitHub
-      link: https://github.com/liuran001/GJZS
 
 features:
-  - title: 易用
-    details: 下载，安装，打开，授予权限，做自己想做的事，没了 :D
-  - title: 开源
-    details: 如同这个文档一样基于GPL-3.0协议开放源代码。
+  - title: 支持所有Root方式
+    details: 就像VIVO无法使用SU一样。
+  - title: 支持框架
+    details: X86_64 ARM64 ARM X86。
   - title: 免费
-    details: 不需要一分钱即可以个人用途使用「搞机助手·R」。
+    details: 不需要一分钱即可以个人用途使用。
   - title: 安全
-    details: 每个功能均经过人工测试，确保大多数用户正常后才引入到应用内。
+    details: 每个功能均经过人工测试，确保大多数用户正常后才引入到应用内,不会有任何恶意代码。
 ---
 
