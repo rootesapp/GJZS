@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "玩机百宝箱--官方下载网站"
+  name: "中秋节快乐！"
   text: "玩机更加方便！"
   tagline: "Power by Scene5"
   
