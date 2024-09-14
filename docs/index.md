@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: 立即下载
-      link: /Download.html
+      link: /Agreement.html
 
 features:
   - title: 支持所有Root方式
