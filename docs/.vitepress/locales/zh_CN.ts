@@ -14,10 +14,6 @@ export default defineConfig({
             label: '目录'
         },
 
-        editLink: {
-            pattern: 'https://github.com/liuran001/GJZS/edit/main/:path',
-            text: '在 GitHub 中编辑本页'
-        }
     }
 })
 
