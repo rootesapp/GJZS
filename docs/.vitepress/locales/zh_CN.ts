@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
     lang: 'zh-CN',
-    description: '为Android玩机爱好者提供一些便利功能',
+    description: '玩机百宝箱官方网站',
 
     themeConfig: {
         nav: nav(),
@@ -25,5 +25,6 @@ function nav() {
     return [
         { text: '下载', link: '/Download.html' },
         { text: '支持', link: '/Support.html' },
+        { text: '历史版本', link: '/version.html' },
     ]
 }
