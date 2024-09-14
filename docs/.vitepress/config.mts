@@ -13,11 +13,7 @@ export default defineConfig( {
       ],
     themeConfig: {
         footer: {
-            message: 'GPL-3.0 Licensed',
-            copyright: 'Copyright © 2021-2024 笨蛋ovo'
-        },
-        socialLinks: [
-            { icon: 'github', link: 'https://github.com/liuran001/GJZS' }
-        ]
+            copyright: 'Copyright © 2021-2024'
+        }
     }
 })
