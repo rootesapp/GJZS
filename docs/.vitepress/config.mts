@@ -3,7 +3,7 @@ import locales from './locales'
 
 export default defineConfig( {
     ignoreDeadLinks: true,
-    title: '搞机助手·R',
+    title: '玩机百宝箱',
     locales: locales.locales,
     srcExclude: ['README.md'],
     head: [
