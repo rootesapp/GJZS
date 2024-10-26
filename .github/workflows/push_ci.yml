@@ -62,8 +62,8 @@ jobs:
     - name: Post to channel
       if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
       env:
-        CHANNEL_ID: ${{ secrets.TELEGRAM_TO }}
-        BOT_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        CHANNEL_ID: ComputerAssistant2
+        BOT_TOKEN: 7430688245:AAEbzTMLEpp9dXtJeihA916qQiEL-dEMgNU
         FILE: ${{ github.workspace }}/${{ env.APkFileName }}
         COMMIT_MESSAGE: |+
           New push to github\!
