@@ -6,7 +6,7 @@
 
 ## Application
 ### If you agree to the above content, send your email in the following format:
-- Platform Author Name (e.g., Coolapk/Bilibili): RootES
+- Platform Author Name (e.g., Youtube): RootES
 - Developer/Author of xxx
 - I promise not to upload malicious code
 
