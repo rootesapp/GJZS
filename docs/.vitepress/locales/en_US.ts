@@ -21,6 +21,7 @@ function nav() {
     return [
         { text: 'Download', link: '/en/Download.html' },
         { text: 'Support', link: '/en/Support.html' },
-        { text: 'Historical Versions', link: '/version.html' },
+        { text: 'Historical Versions', link: '/en/version.html' },
+        { text: 'Developer Platform', link: '/en/Developer.html' },
     ]
 }
