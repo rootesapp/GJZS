@@ -1,3 +1,6 @@
+# 公告
+/公告.txt
+
 # 下载
 
 [点此下载最新稳定版](https://www.123pan.com/s/1Si7jv-3gxRv.html)
