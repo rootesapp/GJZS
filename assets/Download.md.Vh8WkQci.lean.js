@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,U as o}from"./chunks/framework.s-vJCezn.js";const f=JSON.parse('{"title":"公告","description":"","frontmatter":{},"headers":[],"relativePath":"Download.md","filePath":"Download.md"}'),r={name:"Download.md"},n=o("",7),s=[n];function l(_,c,d,h,i,p){return t(),e("div",null,s)}const u=a(r,[["render",l]]);export{f as __pageData,u as default};
