@@ -1,0 +1,1 @@
+import{_ as e,c as i,o as a,U as l}from"./chunks/framework.s-vJCezn.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"en/Agreement.md","filePath":"en/Agreement.md"}'),t={name:"en/Agreement.md"},o=l("",11),r=[o];function n(d,s,c,u,h,p){return a(),i("div",null,r)}const _=e(t,[["render",n]]);export{m as __pageData,_ as default};
