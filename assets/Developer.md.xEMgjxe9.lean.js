@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,U as r}from"./chunks/framework.s-vJCezn.js";const u=JSON.parse('{"title":"申请开发者","description":"","frontmatter":{},"headers":[],"relativePath":"Developer.md","filePath":"Developer.md"}'),o={name:"Developer.md"},l=r("",9),i=[l];function n(s,h,c,_,d,p){return t(),a("div",null,i)}const f=e(o,[["render",n]]);export{u as __pageData,f as default};
