@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Download Now
-      link: /Agreement.html
+      link: /en/Agreement.html
 
 features:
   - title: Supports All Root Methods
