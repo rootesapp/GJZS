@@ -19,8 +19,8 @@ export default defineConfig({
 
 function nav() {
     return [
-        { text: 'Download', link: '/Download.html' },
-        { text: 'Support', link: '/Support.html' },
+        { text: 'Download', link: '/en/Download.html' },
+        { text: 'Support', link: '/en/Support.html' },
         { text: 'Historical Versions', link: '/version.html' },
     ]
 }
