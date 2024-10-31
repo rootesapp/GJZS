@@ -3,14 +3,12 @@ import locales from './locales'
 
 export default defineConfig({
     ignoreDeadLinks: true,
-    title: {
-        '/': '玩机百宝箱', // 中文
-        '/en/': 'Device Toolbox' // 英文
-    },
     locales: {
-        '/': locales.locales, // 中文
+        '/': {
+            title: '玩机百宝箱',
+            description: '一个多功能的设备管理工具。'
+        },
         '/en/': {
-            lang: 'en-US',
             title: 'Device Toolbox',
             description: 'A versatile toolbox for device management.'
         }
@@ -24,8 +22,8 @@ export default defineConfig({
     themeConfig: {
         footer: {
             copyright: {
-                '/': 'Copyright © 2021-2024', // 中文
-                '/en/': 'Copyright © 2021-2024' // 英文
+                '/': 'Copyright © 2021-2024',
+                '/en/': 'Copyright © 2021-2024'
             }
         }
     }
