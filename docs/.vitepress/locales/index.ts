@@ -9,5 +9,12 @@ export default defineConfig({
             themeConfig: zh_CN.themeConfig,
             description: zh_CN.description
         }
+
+        root: {
+            label: 'English',
+            lang: en_US.lang,
+            themeConfig: en_US.themeConfig,
+            description: en_US.description
+}
     }
 })
