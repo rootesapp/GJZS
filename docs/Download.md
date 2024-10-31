@@ -1,6 +1,6 @@
 # 下载
 
-[点此下载最新稳定版](https://www.123pan.com/s/1Si7jv-3gxRv.html)
+[点此下载最新稳定版](https://cloud.wujiyan.cc/f/PEYlHM/app_release.apk)
 
 意见反馈&联系作者：[点击查看](/Support.html)
 
