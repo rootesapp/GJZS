@@ -16,5 +16,5 @@ Please do not send irrelevant or spam messages. We **will not** respond to your 
 
 ## Developer Backstage
 
-[Developer background () requires Google translation](https://rootes.top/update.html)
+[Developer background (requires Google translation)](https://rootes.top/update.html)
 
