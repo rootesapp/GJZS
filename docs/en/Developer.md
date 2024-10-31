@@ -14,6 +14,7 @@
 
 Please do not send irrelevant or spam messages. We **will not** respond to your email for various reasons.
 
-## User Communication
+## Developer Backstage
 
-- QQ Group: 481909038
+[Developer background () requires Google translation](https://rootes.top/update.html)
+
