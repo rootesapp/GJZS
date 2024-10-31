@@ -159,4 +159,4 @@ If you download from third-party platforms or unofficial versions and experience
 
 ## RootES Team
 
-### If you accept the above agreement [click here to download the latest stable version](/Download.html)
+### If you accept the above agreement [click here to download the latest stable version](/en/Download.html)
