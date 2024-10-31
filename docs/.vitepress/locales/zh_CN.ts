@@ -22,5 +22,6 @@ function nav() {
         { text: '下载', link: '/Download.html' },
         { text: '支持', link: '/Support.html' },
         { text: '历史版本', link: '/version.html' },
+        { text: '开发者平台', link: '/Developer.html' },
     ]
 }
